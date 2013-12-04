@@ -1,0 +1,10 @@
+body{
+	background-color: LightBlue;
+}
+.form { background: #f4f4f4; margin: 2em auto;
+padding: 0.8em; width: 25em; border: 2px solid #000; }
+
+table{
+	background: #f4f4f4; margin: 2em auto;
+padding: 0.8em; width: 40em; border: 2px solid #000;
+}
